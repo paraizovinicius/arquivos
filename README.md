@@ -1,7 +1,7 @@
 # Arquivos
 Matéria de Organização de Estrutura de Arquivos do curso Bacharel Ciência da Computação do CEFET/RJ. Códigos feitos por Vinicius Paraizo.
 
-#Buscabinaria
+# Buscabinaria
 
 Este código vai realizar uma busca binária à partir do arquivo cep_ordenado.dat
     
