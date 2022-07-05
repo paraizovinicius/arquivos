@@ -1,5 +1,5 @@
 # Arquivos
-Matéria de Organização de Estrutura de Arquivos do curso Bacharel Ciência da Computação do CEFET/RJ.
+Matéria de Organização de Estrutura de Arquivos do curso Bacharel Ciência da Computação do CEFET/RJ. Códigos feitos por Vinicius Paraizo.
 
 #Buscabinaria
 
@@ -10,9 +10,7 @@ Este código vai realizar uma busca binária à partir do arquivo cep_ordenado.d
       Lá, você vai entrar na pasta "Aula 03" e baixar o arquivo supracitado.
       Por fim, coloque os dois arquivos necessários em uma pasta dentro do seu computador. Abra o VS code com essa pasta. Compile o arquivo utilizando o seguinte código no terminal: "gcc -o buscabinaria buscabinaria.c". Obs: é preciso ter o compilador GCC instalado no seu computador.
       Com o código buscabinária compilado, agora você pode realizar o teste no código. Para isso digite no terminal "./buscabinaria [CEP desejado]"
-    
-## Autor
-Código feito por Vinicius Gonçalves Paraizo Borges
+
 
 # MergeSort
 
