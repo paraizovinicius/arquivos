@@ -14,7 +14,7 @@ Este código vai realizar uma busca binária à partir do arquivo cep_ordenado.d
 ## Autor
 Código feito por Vinicius Gonçalves Paraizo Borges
 
-#MergeSort
+# MergeSort
 
 Este código vai realizar a ordenação por meio do merge sort do arquivo "cep.dat".
 
